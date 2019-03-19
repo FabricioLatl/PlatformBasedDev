@@ -1,0 +1,15 @@
+.miclass{
+	background-color: red;
+	color: cyan;
+	font-size: 32pt;
+}
+
+#unique{
+	background-color: green;
+	color: #CACACA
+	font-size: 18pt;
+}
+
+body{
+	background-color: rgb(15,15,15);
+}
